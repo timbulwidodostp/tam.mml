@@ -1,6 +1,8 @@
 # tam.mml
 Test Analysis Modules: Marginal Maximum Likelihood Estimation Use tam.mml (TAM) With (In) R Software
 
+https://www.youtube.com/watch?v=k7MsNDBM-RI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
